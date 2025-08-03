@@ -3,11 +3,14 @@
   "name": "mei",
   "version": "0.0.1",
   "description": "black & simple <3",
-  "tags": [],
+  "tags": [
+    "top bar",
+    "black"
+  ],
   "previewImages": [
     "resources\\preview-image-1.png"
   ],
-  "repositoryUrl": "",
+  "repositoryUrl": "https://github.com/notth4tcold/glaze-wm-zebar",
   "widgets": [
     {
       "name": "style",
