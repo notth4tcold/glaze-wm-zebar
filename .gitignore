@@ -1,0 +1,12 @@
+*
+!.gitignore
+!/glazewm/
+!/glazewm/config.yaml
+!/zebar/
+!/zebar/settings.json
+!/zebar/mei/
+!/zebar/mei/resources/**
+!/zebar/mei/.gitignore
+!/zebar/mei/index.html
+!/zebar/mei/style.css
+!/zebar/mei/zpack.json
