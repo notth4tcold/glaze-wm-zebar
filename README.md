@@ -1,8 +1,6 @@
 GLAZE WM + ZEBAR
-
-MEI THEME
-
-black & simple
+#  :octocat: Glaze WM with Zebar
+Mei theme created to be **black** & simple 🖤
 
 ---
 
